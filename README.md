@@ -18,3 +18,6 @@ Will list assorted links such as courses, resources and papers
 ## Reinforcement Learning
 
 ## Deep Learning
+
+## Graphical Neural Networks
+- Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges: Michael M. Bronstein1, Joan Bruna2, Taco Cohen3, Petar Veličković4 May 4, 2021
